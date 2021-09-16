@@ -261,7 +261,7 @@ jQuery(function($){
 				
 				<div class="et_pb_text_inner">
 					<h1>drg. Lulu Hayatulmillah</h1>
-                	<p><strong>Putri dari</strong><br> Bpk. Enon <br> &amp; Ibu Maesaroh</p>
+                	<p><strong>Putri dari</strong><br> Bpk. Enon <br> &amp; Ibu Maesaroh (Bpk.H Abdurachim)</p>
 				</div>
 			</div> <!-- .et_pb_text -->
 			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
@@ -331,7 +331,7 @@ jQuery(function($){
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Akad Nikah</span></h4>
 						<div class="et_pb_blurb_description">
-							<p>Telah dilaksanakan pada tanggal <br><strong>16 Agustus 2021</strong></p>
+							<p>Minggu, 26 September 2021<br> 08.00 s/d 11.00 WIB<br> <strong>Grand Cordela Hotel Kuningan</strong><br> Jl. Siliwangi No.91, Purwawinangun, Kec. Kuningan,<br> Kabupaten Kuningan, Jawa Barat, 45511</p>
 						</div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
@@ -348,7 +348,7 @@ jQuery(function($){
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Resepsi</span></h4>
 						<div class="et_pb_blurb_description">
-							<p>Minggu, 26 September 2021<br> 08.00 WIB s/d selesai <br> <strong>Grand Cordela Hotel Kuningan</strong><br> Jl. Siliwangi No.91, Purwawinangun, Kec. Kuningan,<br> Kabupaten Kuningan, Jawa Barat, 45511</p>
+							<p>Minggu, 26 September 2021<br> 11.00 s/d 14.00 WIB<br> <strong>Grand Cordela Hotel Kuningan</strong><br> Jl. Siliwangi No.91, Purwawinangun, Kec. Kuningan,<br> Kabupaten Kuningan, Jawa Barat, 45511</p>
 						</div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
