@@ -261,7 +261,7 @@ jQuery(function($){
 				
 				<div class="et_pb_text_inner">
 					<h1>drg. Lulu Hayatulmillah</h1>
-                	<p><strong>Putri dari</strong><br> Bpk. Enon <br> &amp; Ibu Maesaroh (Bpk.H Abdurachim)</p>
+                	<p><strong>Putri dari</strong><br> Bpk. H. Enon H. S, S,Ag<br> &amp; Ibu Hj. Maesaroh, S.Ag (Bpk. Drs. H. Abdurachim)</p>
 				</div>
 			</div> <!-- .et_pb_text -->
 			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
@@ -280,7 +280,7 @@ jQuery(function($){
 				
 				<div class="et_pb_text_inner">
 					<h1>dr. Fakhrul Arifin</h1>
-                    <p><strong>Putra dari</strong><br> Bpk. Khaerudin Kurniawan<br> &amp; Ibu Indrawati</p>
+                    <p><strong>Putra dari</strong><br> Bpk. Dr. H. Khaerudin K, M.Pd<br> &amp; Ibu Dra. Hj. Indrawati, M.M., Ph.D</p>
 				</div>
 			</div> <!-- .et_pb_text -->
 			</div> <!-- .et_pb_column -->
